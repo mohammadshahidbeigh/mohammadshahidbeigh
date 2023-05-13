@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MohammadShahidBeigh
+- 👋 Hi, I’m @Mohammad Shahid Beigh
 - 👀 I’m interested in a Software Development
 - 🌱 I’m currently learning a Full Stack
 - 💞️ I’m looking to collaborate on 
