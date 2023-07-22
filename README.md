@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mohammad Shahid Beigh
-- 👀 I’m interested in Software Development
+- 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning a Full Stack Web Development
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
