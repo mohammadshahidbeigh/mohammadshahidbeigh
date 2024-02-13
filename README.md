@@ -20,7 +20,7 @@ Hi! My name is Mohammad Shahid Beigh 😄
   <a href="https://www.linkedin.com/in/mohammad-shahid-beigh/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   <a href="https://x.com/ShahidM29040975?t=yHwKObUdCDXJX2NYeSJ4eA&s=08">
-<img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo= &logoColor=white" alt="x Badge"/>
+<img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" alt=" Badge"/>
 
  </a>
 </div>
