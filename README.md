@@ -5,6 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadshahidbeigh&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadshahidbeigh" /> </p>
 <p align="left"> <a href="https://twitter.com/shahidm29040975" target="blank"><img src="https://img.shields.io/twitter/follow/shahidm29040975?logo=twitter&style=for-the-badge" alt="shahidm29040975" /></a> </p>
+<p align="left"> <a href="https://twitter.com/shahidm29040975" target="blank"><img src="./assets/twitter-badge-31k.png" height="36" alt="pradumna_saraf"/></a></p>
 
 ### Skills
 
