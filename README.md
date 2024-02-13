@@ -1,8 +1,4 @@
-Hi! My name is Mohammad Shahid Beigh 😄
-========================================================================================================================================
 
-🌍  I am a Front-End Developer based in J&K, India.
-<br/>
 
 <h1 align="center">Hi 👋, I'm shahid</h1>
 <h3 align="center">front end</h3>
