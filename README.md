@@ -34,13 +34,6 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadshahidbeigh&show_icons=true&locale=en&layout=compact" alt="mohammadshahidbeigh" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammadshahidbeigh&show_icons=true&locale=en" alt="mohammadshahidbeigh" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadshahidbeigh&" alt="mohammadshahidbeigh" /></p>
-
-
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mohammadshahidbeigh&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mohammadshahidbeigh&theme=radical&hide_border=true)<br/>
