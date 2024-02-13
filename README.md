@@ -19,5 +19,7 @@ Hi! My name is Mohammad Shahid Beigh 😄
 <div id="badges">
   <a href="https://www.linkedin.com/in/mohammad-shahid-beigh/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+  <a href="https://x.com/ShahidM29040975?t=yHwKObUdCDXJX2NYeSJ4eA&s=08">
+   <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+ </a>
 </div>
