@@ -2,7 +2,7 @@
   <img alt="a black background with black gif Hello, I am Mohammad Shahid" src="![mohammadshahid gif](https://github.com/mohammadshahidbeigh/mohammadshahidbeigh/assets/85876937/b9714858-05a5-4b61-bb82-87d3ada9123c)
 ">
 </p>
-<img align="center" alt="a black background with black gif, Hello, I am Mohammad Shahid" width="400" src="https://github.com/mohammadshahidbeigh/mohammadshahidbeigh/raw/main/assets/85876937/1dc0dd22-5ea3-41af-8332-fe7eb679ea10.gif"> 
+<img align="center" alt="a black background with black gif, Hello, I am Mohammad Shahid" width="400" src="![mohammadshahid gif](https://github.com/mohammadshahidbeigh/mohammadshahidbeigh/assets/85876937/5ccd67fa-3d2b-4337-86b0-5156bc347ecf)"> 
 
 
 <h1 align="center">Hi 👋, I'm shahid</h1>
