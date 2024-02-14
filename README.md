@@ -1,6 +1,7 @@
 <p align="center">
   <img alt="a black background with black gif Hello, I am Mohammad Shahid" src="https://github.com/mohammadshahidbeigh/mohammadshahidbeigh/raw/main/assets/85876937/1dc0dd22-5ea3-41af-8332-fe7eb679ea10.gif">
 </p>
+<img align="center" alt="a black background with black gif, Hello, I am Mohammad Shahid" width="400" src="https://github.com/mohammadshahidbeigh/mohammadshahidbeigh/raw/main/assets/85876937/1dc0dd22-5ea3-41af-8332-fe7eb679ea10.gif"> 
 
 
 <h1 align="center">Hi 👋, I'm shahid</h1>
