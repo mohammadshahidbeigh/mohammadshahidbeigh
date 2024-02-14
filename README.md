@@ -1,3 +1,4 @@
+<p align="center"><img alt="a black background with black gif Hello, I am Mohammad Shahid" src="![mohammadshahid gif](https://github.com/mohammadshahidbeigh/mohammadshahidbeigh/assets/85876937/1dc0dd22-5ea3-41af-8332-fe7eb679ea10)"></p>
 
 <h1 align="center">Hi 👋, I'm shahid</h1>
 <h3 align="center">front end</h3>
