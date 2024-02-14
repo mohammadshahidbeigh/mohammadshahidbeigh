@@ -31,6 +31,9 @@ Currently, I'm on the lookout for opportunities in front-end web development. I 
   <a href="https://x.com/ShahidM29040975?t=yHwKObUdCDXJX2NYeSJ4eA&s=08">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+ <a href="https://stackoverflow.com/users/21755863/mohammad-shahid-beigh?tab=profile">
+  <img src="https://img.shields.io/badge/Stack Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow Badge"/>
+</a>
 </div>
 
 ### Latest Blogs Posts
