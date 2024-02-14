@@ -38,6 +38,6 @@ Currently, I'm on the lookout for opportunities in front-end web development. I 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
 <a href="https://medium.com/@shahidmajeed0097/understanding-full-stack-web-development-from-basics-to-apis-servers-databases-devops-and-f751bc4a6a4f" title="Share your Docker Compose app logs remotely"><img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*x0QBSYeh1fCdWdjVmYDDxw.jpeg" alt="Share your Docker Compose app logs remotely" width="250px" align="left" /></a>
-<div><strong>11 Jan 2024</strong> | <strong>Updated: 11 Jan 2024</strong></div>
+<div><strong> May 17, 2023</strong> | <strong>Updated: May 17, 2023</strong></div>
 <br/>Understanding Full Stack Web Development: From Basics to APIs, Servers, Databases, DevOps, and Mobile Development </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
