@@ -39,6 +39,5 @@ Currently, I'm on the lookout for opportunities in front-end web development. I 
 <p align="left">
 <a href="https://medium.com/@shahidmajeed0097/understanding-full-stack-web-development-from-basics-to-apis-servers-databases-devops-and-f751bc4a6a4f" title="Share your Docker Compose app logs remotely"><img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*x0QBSYeh1fCdWdjVmYDDxw.jpeg" alt="Share your Docker Compose app logs remotely" width="250px" align="left" /></a>
 <div><strong>11 Jan 2024</strong> | <strong>Updated: 11 Jan 2024</strong></div>
-<br/> Logs are crucial for understanding the inner workings of an application, whether it's to ensure it performs as expected or to help in debugging when encountering errors.
-However, consider a scenario where one of your teammates is working and developi... </p> <br/> <br/>
+<br/>Understanding Full Stack Web Development: From Basics to APIs, Servers, Databases, DevOps, and Mobile Development </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
