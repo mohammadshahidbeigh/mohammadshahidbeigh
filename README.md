@@ -2,12 +2,12 @@
   <img src="https://github.com/mohammadshahidbeigh/mohammadshahidbeigh/blob/main/mohammadshahid.gif?raw=true" alt="Your GIF">
 </p>
 
-<h3 align="center">👋 Hi there! I'm Shahid, and I've recently ventured into the world of web development. One of the highlights of my journey so far has been creating my first React project, "aichatbot." The experience was incredibly rewarding, and it ignited a passion within me for web development.
+<div align="center">👋 Hi there! I'm Shahid, and I've recently ventured into the world of web development. One of the highlights of my journey so far has been creating my first React project, "aichatbot." The experience was incredibly rewarding, and it ignited a passion within me for web development.
 <br>
 I've been particularly fascinated by exploring Typescript within the React ecosystem. It's been an exhilarating journey, but what truly captured my attention is the consolidated toolchain offered by NEXT.js. Working with it has been nothing short of amazing, and I find myself reluctant to part ways with it.
 <br>
 Currently, I'm on the lookout for opportunities in front-end web development. I have a keen interest in roles involving REACT.js and NEXT.js. What excites me the most are startup environments where I can collaborate closely with a tight-knit team and make meaningful contributions.
-</h3>
+</div>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadshahidbeigh&label=Profile%20views&color=0e75b6&style=flat" alt="mohammad shahid beigh" /> </p>
