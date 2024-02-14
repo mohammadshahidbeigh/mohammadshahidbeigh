@@ -4,7 +4,7 @@
 
 <div align="center">👋 Hi there! I'm Shahid, and eight months ago, I discovered a passion for software engineering that has since become a driving force in my life. One of the highlights of my journey so far has been creating my first React project, "aichatbot." The experience was incredibly rewarding, and it ignited a passion within me for web development.
 <br>
-I've been particularly fascinated by exploring Typescript within the React ecosystem. It's been an exhilarating journey, but what truly captured my attention is the consolidated toolchain offered by NEXT.js. Working with it has been nothing short of amazing, and I find myself reluctant to part ways with it.
+I've been particularly fascinated by exploring Typescript and the React ecosystem. It's been an exhilarating journey, but what truly captured my attention is the consolidated toolchain offered by NEXT.js. Working with it has been nothing short of amazing, and I find myself reluctant to part ways with it.
 <br>
 Currently, I'm on the lookout for opportunities in front-end web development. I have a keen interest in roles involving REACT.js and NEXT.js. What excites me the most are startup environments where I can collaborate closely with a tight-knit team and make meaningful contributions.
 </div>
