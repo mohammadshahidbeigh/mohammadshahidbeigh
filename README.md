@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="[https://raw.githubusercontent.com/your-username/your-repository/main/path/to/your/image.gif](https://github.com/mohammadshahidbeigh/mohammadshahidbeigh/blob/main/mohammadshahid.gif.gif)" alt="Your GIF">
+</p>
 
 
 <h1 align="center">Hi 👋, I'm shahid</h1>
