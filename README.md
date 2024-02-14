@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="a black background with black gif Hello, I am Mohammad Shahid" src="https://medium.com/@2020a3t005/github-abfe79ab8972">
+  <img alt="a black background with black gif Hello, I am Mohammad Shahid" src="[https://example.com/path/to/your/image.jpg](https://medium.com/@2020a3t005/github-abfe79ab8972)">
 </p>
 
 <img align="center" alt="a black background with black gif, Hello, I am Mohammad Shahid" width="400" src="![mohammadshahid gif](https://github.com/mohammadshahidbeigh/mohammadshahidbeigh/assets/85876937/5ccd67fa-3d2b-4337-86b0-5156bc347ecf)"> 
