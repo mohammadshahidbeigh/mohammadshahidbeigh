@@ -36,7 +36,7 @@ Currently, I'm on the lookout for opportunities in front-end web development. I 
 </a>
 </div>
 
-### Latest Blogs Posts
+### My Latest Blogs Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 <!-- HASHNODE_BLOG:START -->
