@@ -4,9 +4,6 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadshahidbeigh&label=Profile%20views&color=0e75b6&style=flat" alt="mohammad shahid beigh" /> </p>
-<a href="mohammadshahidbeigh@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-</a>
 <p align="left"> <a href="https://twitter.com/shahidm29040975" target="blank"><img src="https://img.shields.io/twitter/follow/shahidm29040975?logo=twitter&style=for-the-badge" alt="ShahidM29040975" /></a>
 </p>
 
@@ -34,6 +31,9 @@ Currently, I'm on the lookout for opportunities in front-end web development. I 
   <a href="https://x.com/ShahidM29040975?t=yHwKObUdCDXJX2NYeSJ4eA&s=08">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+<a href="mailto:mohammadshahidbeigh@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+</a>
  <a href="https://stackoverflow.com/users/21755863/mohammad-shahid-beigh?tab=profile">
   <img src="https://img.shields.io/badge/Stack Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow Badge"/>
 </a>
@@ -44,7 +44,7 @@ Currently, I'm on the lookout for opportunities in front-end web development. I 
 <!-- BLOG-POST-LIST:END -->
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
-<a href="https://medium.com/@shahidmajeed0097/understanding-full-stack-web-development-from-basics-to-apis-servers-databases-devops-and-f751bc4a6a4f" title="Understanding Full Stack Web Development"><img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*x0QBSYeh1fCdWdjVmYDDxw.jpeg" alt="Understanding Full Stack Web Developmenty" width="250px" align="left" /></a>
+<a href="https://medium.com/@shahidmajeed0097/understanding-full-stack-web-development-from-basics-to-apis-servers-databases-devops-and-f751bc4a6a4f" title="Understanding Full Stack Web Development"><img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*x0QBSYeh1fCdWdjVmYDDxw.jpeg" alt="Understanding Full Stack Web Development" width="250px" align="left" /></a>
 <a href="https://medium.com/@shahidmajeed0097/understanding-full-stack-web-development-from-basics-to-apis-servers-databases-devops-and-f751bc4a6a4f" title="Understanding Full Stack Web Development"><strong>Understanding Full Stack Web Development</strong></a>
 <div><strong> May 17, 2023</strong> | <strong>Updated: May 17, 2023</strong></div>
 <br/>Understanding Full Stack Web Development: From Basics to APIs, Servers, Databases, DevOps, and Mobile Development </p> <br/> <br/>
