@@ -28,7 +28,7 @@ Currently, I'm on the lookout for opportunities in front-end web development. I 
   <a href="https://x.com/m0hammad_shahid?t=yHwKObUdCDXJX2NYeSJ4eA&s=08">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://www.instagram.com/shahidmajeed_?igsh=dzVjMWozN3VheGQ2">
+  <a href="https://www.instagram.com/m0hammadshahid_?igsh=dzVjMWozN3VheGQ2">
     <img src="https://img.shields.io/badge/Instagram-darkred?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="mailto:mohammadshahidbeigh@gmail.com">
