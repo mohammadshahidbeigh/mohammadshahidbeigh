@@ -25,7 +25,7 @@ Currently, I'm on the lookout for opportunities in front-end web development. I 
   <a href="https://www.linkedin.com/in/mohammad-shahid-beigh/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://x.com/ShahidM29040975?t=yHwKObUdCDXJX2NYeSJ4eA&s=08">
+  <a href="https://x.com/m0hammad_shahid?t=yHwKObUdCDXJX2NYeSJ4eA&s=08">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://www.instagram.com/shahidmajeed_?igsh=dzVjMWozN3VheGQ2">
