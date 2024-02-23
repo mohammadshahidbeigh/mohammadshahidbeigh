@@ -4,7 +4,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadshahidbeigh&label=Profile%20views&color=0e75b6&style=flat" alt="mohammad shahid beigh" /> </p>
-<p align="left"> <a href="https://twitter.com/shahidm29040975" target="blank"><img src="https://img.shields.io/twitter/follow/shahidm29040975?logo=twitter&style=for-the-badge" alt="ShahidM29040975" /></a>
+<p align="left"> <a href="https://twitter.com/shahidm29040975" target="blank"><img src="https://img.shields.io/twitter/follow/m0hammad_shahid?logo=twitter&style=for-the-badge" alt="m0hammad_shahid" /></a>
 </p>
 
 <div align="center">👋 Hi there! I'm Shahid, and eight months ago, I discovered a passion for software engineering that has since become a driving force in my life. One of the highlights of my journey so far has been creating my first React project, "textwizard". The experience was incredibly rewarding, and it ignited a passion within me for web development.
