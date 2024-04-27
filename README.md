@@ -2,7 +2,7 @@
   <img src="https://github.com/mohammadshahidbeigh/mohammadshahidbeigh/blob/main/mohammadshahid.gif?raw=true" alt="GIF">
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadshahidbeigh&label=Profile%20views&color=0e75b6&style=flat" alt="mohammad shahid beigh" /> </p>
-<p align="left"> <a href="https://twitter.com/shahidm29040975" target="blank"><img src="https://img.shields.io/twitter/follow/m0hammad_shahid?logo=twitter&style=for-the-badge" alt="m0hammad_shahid" /></a>
+<p align="left"> <a href="https://twitter.com/m0hammad_shahid" target="blank"><img src="https://img.shields.io/twitter/follow/m0hammad_shahid?logo=twitter&style=for-the-badge" alt="m0hammad_shahid" /></a>
 </p>
 
 <div align="center">👋 Hi there! I'm Shahid, and eight months ago, I discovered a passion for software engineering that has since become a driving force in my life. I've been particularly fascinated by exploring typescript, next.js, and the react ecosystem. Currently, I'm on the lookout for opportunities in front-end web development. I have a keen interest in roles involving react.js and next.js. What excites me the most are startup environments where I can collaborate closely with a tight-knit team and make meaningful contributions.
