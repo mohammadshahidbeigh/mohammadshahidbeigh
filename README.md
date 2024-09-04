@@ -61,7 +61,7 @@
 <!-- BLOG-POST-LIST:END -->
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
-<a href="https://mohammadshahidbeigh.hashnode.dev/mastering-fine-tuning-a-journey-through-model-optimization" title="Mastering Fine-Tuning: A Journey Through Model Optimization"><img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*x0QBSYeh1fCdWdjVmYDDxw.jpeg" alt="Understanding Full Stack Web Development" width="250px" align="left" /></a>
+<a href="https://mohammadshahidbeigh.hashnode.dev/mastering-fine-tuning-a-journey-through-model-optimization" title="Mastering Fine-Tuning: A Journey Through Model Optimization"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1725476315531/b409b64b-ecf5-40cd-84ff-96b5156bf57b.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Understanding Full Stack Web Development" width="250px" align="left" /></a>
 <a href="https://mohammadshahidbeigh.hashnode.dev/mastering-fine-tuning-a-journey-through-model-optimization" title="Mastering Fine-Tuning: A Journey Through Model Optimization"><strong>Mastering Fine-Tuning: A Journey Through Model Optimization</strong></a>
 <div><strong> Sep 5, 2024</strong> | <strong>Updated: Sep 8, 2024</strong></div>
 <br/>Understanding Full Stack Web Development: From Basics to APIs, Servers, Databases, DevOps, and Mobile Development </p> <br/> <br/>
