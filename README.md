@@ -56,13 +56,13 @@
   </a>
 </div>
 
-### My Latest Blogs Posts
+### My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
-<a href="https://medium.com/@shahidmajeed0097/understanding-full-stack-web-development-from-basics-to-apis-servers-databases-devops-and-f751bc4a6a4f" title="Understanding Full Stack Web Development"><img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*x0QBSYeh1fCdWdjVmYDDxw.jpeg" alt="Understanding Full Stack Web Development" width="250px" align="left" /></a>
-<a href="https://medium.com/@shahidmajeed0097/understanding-full-stack-web-development-from-basics-to-apis-servers-databases-devops-and-f751bc4a6a4f" title="Understanding Full Stack Web Development"><strong>Understanding Full Stack Web Development</strong></a>
-<div><strong> May 17, 2023</strong> | <strong>Updated: May 17, 2023</strong></div>
+<a href="https://mohammadshahidbeigh.hashnode.dev/mastering-fine-tuning-a-journey-through-model-optimization" title="Mastering Fine-Tuning: A Journey Through Model Optimization"><img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*x0QBSYeh1fCdWdjVmYDDxw.jpeg" alt="Understanding Full Stack Web Development" width="250px" align="left" /></a>
+<a href="https://medium.com/@shahidmajeed0097/understanding-full-stack-web-development-from-basics-to-apis-servers-databases-devops-and-f751bc4a6a4f" title="Mastering Fine-Tuning: A Journey Through Model Optimization"><strong>Mastering Fine-Tuning: A Journey Through Model Optimization</strong></a>
+<div><strong> Sep 5, 2024</strong> | <strong>Updated: Sep 8, 2028</strong></div>
 <br/>Understanding Full Stack Web Development: From Basics to APIs, Servers, Databases, DevOps, and Mobile Development </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
