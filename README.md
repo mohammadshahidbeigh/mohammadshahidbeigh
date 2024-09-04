@@ -64,5 +64,5 @@
 <a href="https://mohammadshahidbeigh.hashnode.dev/mastering-fine-tuning-a-journey-through-model-optimization" title="Mastering Fine-Tuning: A Journey Through Model Optimization"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1725476315531/b409b64b-ecf5-40cd-84ff-96b5156bf57b.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Understanding Full Stack Web Development" width="250px" align="left" /></a>
 <a href="https://mohammadshahidbeigh.hashnode.dev/mastering-fine-tuning-a-journey-through-model-optimization" title="Mastering Fine-Tuning: A Journey Through Model Optimization"><strong>Mastering Fine-Tuning: A Journey Through Model Optimization</strong></a>
 <div><strong> Sep 5, 2024</strong> | <strong>Updated: Sep 8, 2024</strong></div>
-<br/>Understanding Why Fine-tuning is key for optimizing small LLMs, and why mastering prompt engineering is equally vital for driving AI model behavior.</p> <br/> <br/>
+<br/>Understanding why Fine-tuning is key for optimizing small LLMs, and why mastering prompt engineering is equally vital for driving AI model behavior.</p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
