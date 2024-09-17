@@ -67,7 +67,7 @@
 <br/>Understanding how Fine-tuning is key for optimizing small LLMs, and why mastering prompt engineering is equally vital for driving AI model behavior.</p> <br/> <br/>
 
 <a href="https://mohammadshahidbeigh.hashnode.dev/why-rag-outshines-fine-tuning-in-llm-optimization" title="Why RAG Outshines Fine-Tuning in LLM Optimization"><img src="https://framerusercontent.com/images/Vk7p8LACFAKiG7QLnlwAwks6uU0.png" alt="Why RAG Outshines Fine-Tuning in LLM Optimization" width="250px" align="left" /></a>
-<a href="https://mohammadshahidbeigh.hashnode.dev/why-rag-outshines-fine-tuning-in-llm-optimization" title="Mastering Fine-Tuning: A Journey Through Model Optimization"><strong>Mastering Fine-Tuning: A Journey Through Model Optimization</strong></a>
+<a href="https://mohammadshahidbeigh.hashnode.dev/why-rag-outshines-fine-tuning-in-llm-optimization" title="Mastering Fine-Tuning: A Journey Through Model Optimization"><strong>Why RAG Outshines Fine-Tuning in LLM Optimization</strong></a>
 <div><strong> Sep 17, 2024</strong> | <strong>Updated: Sep 18, 2024</strong></div>
 <br/>Understanding Why RAG Outshines Fine-Tuning in LLM Optimization.</p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
