@@ -18,7 +18,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ### GitHub Stats
-<img align="right" alt="Coding" width="350" src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*IjwqslkWZDHTMK9Y.gif"> 
+
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadshahidbeigh&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
