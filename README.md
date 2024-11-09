@@ -29,6 +29,10 @@
 <img align="right" alt="Coding" width="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnFmaTU5cWtrMG1tdnplanZmdjNndGl3bHFzY3dyN3JrYjVuNXZybCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp"> 
 
 
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mohammadshahidbeigh&bg_color=000000&color=07e449&line=0b12da&point=eee2eb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadshahidbeigh&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 ![Stats](https://github-readme-stats.vercel.app/api?username=mohammadshahidbeigh&theme=radical&hide_border=true&include_all_commits=true&count_private=false)
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mohammadshahidbeigh&theme=radical&hide_border=true)
