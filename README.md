@@ -7,7 +7,7 @@
 
 <p align="left">
   <a href="https://drive.google.com/file/d/1YdLLSX5EwfbNfOD9KoBnTLEmaEb-CH76/view?usp=sharing" download>
-    <img src="https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=adobeacrobatreader" alt="View Resume">
+    <img src="https://img.shields.io/badge/View-Resume-blue?style=for-the-badge&logo=adobeacrobatreader" alt="View Resume">
   </a>
 </p>
 
