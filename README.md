@@ -1,24 +1,19 @@
 <p align="center">
   <img src="https://github.com/mohammadshahidbeigh/mohammadshahidbeigh/blob/main/mohammadshahid.gif?raw=true" alt="GIF">
 </p>
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=mohammadshahidbeigh&label=Profile%20views&color=0e75b6&style=flat" alt="mohammad shahid beigh" /> 
-</p>
-
-<p align="left"> 
-  <a href="https://twitter.com/m0hammad_shahid" target="blank">
-    <img src="https://img.shields.io/twitter/follow/m0hammad_shahid?logo=twitter&style=flat" alt="m0hammad_shahid" />
-  </a>
-</p>
-
 <p align="left">
+  <img src="https://komarev.com/ghpvc/?username=mohammadshahidbeigh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
+  <a href="https://twitter.com/m0hammad_shahid" target="blank">
+    <img src="https://img.shields.io/twitter/follow/m0hammad_shahid?logo=twitter&style=flat" alt="Twitter Follow" />
+  </a>
   <a href="https://drive.google.com/file/d/1YdLLSX5EwfbNfOD9KoBnTLEmaEb-CH76/view?usp=sharing" download>
-    <img src="https://img.shields.io/badge/View-Resume-blue?style=flat&logo=adobeacrobatreader" alt="View Resume">
+    <img src="https://img.shields.io/badge/View-Resume-blue?style=flat&logo=adobeacrobatreader" alt="View Resume" />
   </a>
 </p>
 
 
-<div align="center">👋 Hi there! I'm Shahid, and one year ago, I discovered a passion for software engineering that has since become a driving force in my life. I've been particularly fascinated by exploring javascript, typescript, react, next.js, node.js, and the GenAI ecosystem. Currently, I'm on the lookout for opportunities in full-stack web development. I have a keen interest in roles involving react.js and next.js or full-stack with GenAI. What excites me the most are startup environments where I can collaborate closely with a tight-knit team and make meaningful contributions.
+
+<div align="center">👋 Hi there! I'm Shahid, and one year ago, I discovered a passion for software engineering that has since become a driving force in my life. I've been particularly fascinated by exploring javascript, typescript, react, next.js, node.js, and the GenAI ecosystem. Currently, I'm on the lookout for opportunities in full-stack web development. I am keenly interested in roles involving react.js and next.js or full-stack with GenAI. What excites me the most are startup environments where I can collaborate closely with a tight-knit team and make meaningful contributions.
 </div>
 
                                                                                                                                                                                                     
