@@ -7,7 +7,7 @@
 
 <p align="left"> 
   <a href="https://twitter.com/m0hammad_shahid" target="blank">
-    <img src="https://img.shields.io/twitter/Follow/m0hammad_shahid?logo=twitter&style=flat" alt="m0hammad_shahid" />
+    <img src="https://img.shields.io/twitter/follow/m0hammad_shahid?logo=twitter&style=flat" alt="m0hammad_shahid" />
   </a>
 </p>
 
