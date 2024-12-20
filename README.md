@@ -65,13 +65,15 @@
     <img src="https://img.shields.io/badge/Instagram-darkred?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="mailto:mohammadshahidbeigh@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <a href="https://stackoverflow.com/users/21755863/mohammad-shahid-beigh?tab=profile">
-  <img src="https://img.shields.io/badge/Stack Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow Badge"/>
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow Badge"/>
+  </a>
+  <a href="https://www.upwork.com/freelancers/~01667608f00cd4224b?mp_source=share">
+    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork Badge"/>
   </a>
 </div>
-
 ### My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
