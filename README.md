@@ -1,8 +1,5 @@
 <p align="center">
-  <video width="600" controls>
-    <source src="https://drive.google.com/file/d/1kjLiiXpbIFAoueJD2BoJG7vMUt2ApqXU/view?usp=sharing" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <img src="https://drive.google.com/file/d/1ad1OncfZyhB63aefQ5uXakM2sd_SspkG/view?usp=sharing" alt="GIF">
 </p>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mohammadshahidbeigh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
@@ -13,7 +10,6 @@
     <img src="https://img.shields.io/badge/View-Resume-blue?style=flat&logo=adobeacrobatreader" alt="View Resume" />
   </a>
 </p>
-
 
 
 <div align="center">👋 Hi there! I'm Shahid, and two years ago, I discovered a passion for software engineering that has since become a driving force in my life. I've been particularly fascinated by exploring javascript, typescript, react, next.js, node.js, and the GenAI ecosystem. Currently, I'm on the lookout for opportunities in full-stack web development. I am keenly interested in roles involving react.js and next.js or full-stack with GenAI. What excites me the most are startup environments where I can collaborate closely with a tight-knit team and make meaningful contributions.
