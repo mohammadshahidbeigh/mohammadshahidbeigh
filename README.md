@@ -3,7 +3,7 @@
 </p>
 <p align="center">
   <video width="600" controls>
-    <source src="[https://example.com/video.mp4](https://drive.google.com/file/d/1kjLiiXpbIFAoueJD2BoJG7vMUt2ApqXU/view?usp=sharing)" type="video/mp4">
+    <source src="https://drive.google.com/file/d/1kjLiiXpbIFAoueJD2BoJG7vMUt2ApqXU/view?usp=sharing" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </p>
