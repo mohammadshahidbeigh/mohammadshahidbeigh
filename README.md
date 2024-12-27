@@ -1,6 +1,12 @@
 <p align="center">
   <img src="https://github.com/mohammadshahidbeigh/mohammadshahidbeigh/blob/main/mohammadshahid.gif?raw=true" alt="GIF">
 </p>
+<p align="center">
+  <video width="600" controls>
+    <source src="[https://example.com/video.mp4](https://drive.google.com/file/d/1kjLiiXpbIFAoueJD2BoJG7vMUt2ApqXU/view?usp=sharing)" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</p>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mohammadshahidbeigh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
   <a href="https://twitter.com/m0hammad_shahid" target="blank">
