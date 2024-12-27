@@ -1,7 +1,4 @@
 <p align="center">
-  <img src="https://github.com/mohammadshahidbeigh/mohammadshahidbeigh/blob/main/mohammadshahid.gif?raw=true" alt="GIF">
-</p>
-<p align="center">
   <video width="600" controls>
     <source src="https://drive.google.com/file/d/1kjLiiXpbIFAoueJD2BoJG7vMUt2ApqXU/view?usp=sharing" type="video/mp4">
     Your browser does not support the video tag.
