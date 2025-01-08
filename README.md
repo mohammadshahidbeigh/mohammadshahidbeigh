@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://drive.google.com/file/d/1A2SYVve4Ps6WQWuHRk6IrSiT1MaeWF2U/view?usp=sharing" alt="Img">
+  <img src="https://github.com/user-attachments/assets/c03b8919-237a-4970-9b85-e5d527e5f0e8" alt="Img">
+</p>
 </p>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mohammadshahidbeigh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
