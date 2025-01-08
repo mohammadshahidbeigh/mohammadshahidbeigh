@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="![Black Liquid Minimalist Daily Quotes LinkedIn Banner (1)](https://github.com/user-attachments/assets/3088678f-63d5-4d8e-8dc5-fc33728b309d)
-" alt=" Banner">
+  <img src="https://github.com/user-attachments/assets/3088678f-63d5-4d8e-8dc5-fc33728b309d" alt="Banner">
 </p>
+
 </p>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mohammadshahidbeigh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
