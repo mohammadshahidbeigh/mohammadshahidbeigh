@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c03b8919-237a-4970-9b85-e5d527e5f0e8" alt="Img">
+  <img src="![Black Liquid Minimalist Daily Quotes LinkedIn Banner (1)](https://github.com/user-attachments/assets/3088678f-63d5-4d8e-8dc5-fc33728b309d)
+" alt="Img">
 </p>
 </p>
 <p align="left">
