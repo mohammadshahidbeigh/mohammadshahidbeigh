@@ -25,7 +25,7 @@
 [![My Skills](https://skillicons.dev/icons?i=graphql,apollo,jest,cypress)](https://skillicons.dev) &nbsp;&nbsp;
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,prisma,postman)](https://skillicons.dev) &nbsp;&nbsp;
 [![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,appwrite,vitest,netlify,vercel)](https://skillicons.dev) &nbsp;&nbsp;
-[![My Skills](https://skillicons.dev/icons?i=py,linux,ubuntu,nginx,jenkins,aws,redis,docker,kubernetes,firebase,supabase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,linux,ubuntu,,firebase,supabase,jenkins,aws,redis,docker,kubernetes)](https://skillicons.dev)
 
 
 
