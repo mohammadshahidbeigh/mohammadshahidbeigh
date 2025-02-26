@@ -14,7 +14,7 @@
 </p>
 
 
-<div align="center">👋 Hey everyone! I'm Shahid—a passionate software engineer with a strong foundation in JavaScript, TypeScript, React, Next.js, Node.js, and the GenAI ecosystem. Over the past 2 years, my enthusiasm for coding and problem-solving has grown exponentially. I'm currently seeking full-stack web development opportunities, particularly roles that focus on React, TypeScript, and Next.js or integrate GenerativeAI to drive innovation. I'm most excited about startup environments, where I can work closely with a dynamic team to make a meaningful Impact!
+<div align="center">👋 Hey everyone! I'm Shahid—a passionate software engineer with a strong foundation in JavaScript, TypeScript, React, Next.js, Node.js, and the GenAI ecosystem. Over the past 2 years, my enthusiasm for coding and problem-solving has grown exponentially. I'm currently seeking full-stack web development opportunities, particularly roles focusing on React, TypeScript, and Next.js or integrating Generative AI to drive innovation. I'm most excited about startup environments, where I can work closely with a dynamic team to make a meaningful Impact!
 </div>
 
                                                                                                                                                                                                     
