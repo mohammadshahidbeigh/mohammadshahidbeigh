@@ -8,7 +8,7 @@
   <a href="https://twitter.com/m0hammad_shahid" target="blank">
     <img src="https://img.shields.io/twitter/follow/m0hammad_shahid?logo=twitter&style=flat" alt="Twitter Follow" />
   </a>
-  <a href="https://drive.google.com/file/d/1K_Xy59h_L5r5OmtD1_Hp8Jdac3UnlugS/view?usp=sharing" download>
+  <a href="https://drive.google.com/file/d/19LWNpE9fg0ymBnZZ7unalE-WrjYeUOwo/view?usp=sharing" download>
     <img src="https://img.shields.io/badge/View-Resume-blue?style=flat&logo=adobeacrobatreader" alt="View Resume" />
   </a>
 </p>
