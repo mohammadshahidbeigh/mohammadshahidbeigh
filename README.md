@@ -17,11 +17,11 @@
 <div align="center">👋 Hey everyone! I'm Shahid—a passionate software engineer with a strong foundation in TypeScript, React, Next.js, Node.js and Python. Over the past 2 years, my enthusiasm for coding and problem-solving has grown exponentially. I'm currently seeking full-stack web development opportunities, particularly roles focusing on React, TypeScript, and Next.js or integrating GenAI to drive innovation. I'm most excited about startup environments, where I can work closely with a dynamic team to make a meaningful impact!
 </div>
 
-<div align="center">
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mohammadshahidbeigh&theme=radical&hide_border=true)
-
-</div>
+<br>
+<br>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadshahidbeigh&theme=radical&hide_border=true" />
+</p>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mohammadshahidbeigh&bg_color=000000&color=e70db8&line=0b12da&point=eee2eb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
