@@ -17,26 +17,6 @@
 <div align="center">👋 Hey everyone! I'm Shahid—a passionate software engineer with a strong foundation in TypeScript, React, Next.js, Node.js and Python. Over the past 2 years, my enthusiasm for coding and problem-solving has grown exponentially. I'm currently seeking full-stack web development opportunities, particularly roles focusing on React, TypeScript, and Next.js or integrating GenAI to drive innovation. I'm most excited about startup environments, where I can work closely with a dynamic team to make a meaningful impact!
 </div>
 
-                                                                                                                                                                                                    
-### Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts)](https://skillicons.dev) &nbsp;&nbsp;
-[![My Skills](https://skillicons.dev/icons?i=react,redux,next,electron)](https://skillicons.dev) &nbsp;&nbsp;
-[![My Skills](https://skillicons.dev/icons?i=tailwind,scss,materialui)](https://skillicons.dev) &nbsp;&nbsp;
-[![My Skills](https://skillicons.dev/icons?i=graphql,apollo,jest,cypress)](https://skillicons.dev) &nbsp;&nbsp;
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,prisma,postman)](https://skillicons.dev) &nbsp;&nbsp;
-[![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,appwrite,vitest,netlify,vercel)](https://skillicons.dev) &nbsp;&nbsp;
-[![My Skills](https://skillicons.dev/icons?i=py,linux,firebase,supabase,jenkins,aws,redis,docker,kubernetes)](https://skillicons.dev)
-
-
-
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-### GitHub Stats
-<img align="right" alt="Coding" width="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnFmaTU5cWtrMG1tdnplanZmdjNndGl3bHFzY3dyN3JrYjVuNXZybCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp"> 
-
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadshahidbeigh&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
