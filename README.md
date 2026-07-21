@@ -1,21 +1,6 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/789b0663-2074-4799-8532-06299eff4052" alt=" Banner">
+  <img src="https://raw.githubusercontent.com/mohammadshahidbeigh/mohammadshahidbeigh/main/profile-card.svg" alt="Mohammad Shahid Beigh" />
 </p>
-
-</p>
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mohammadshahidbeigh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
-  <a href="https://twitter.com/m0hammad_shahid" target="blank">
-    <img src="https://img.shields.io/twitter/follow/m0hammad_shahid?logo=twitter&style=flat" alt="Twitter Follow" />
-  </a>
-  <!-- <a href="https://drive.google.com/file/d/19LWNpE9fg0ymBnZZ7unalE-WrjYeUOwo/view?usp=sharing" download>
-    <img src="https://img.shields.io/badge/View-Resume-blue?style=flat&logo=adobeacrobatreader" alt="View Resume" />
-  </a> -->
-</p>
-
-
-<div align="center">👋 Hey everyone! I'm Shahid—a passionate software engineer with a strong foundation in TypeScript, React, Next.js, Node.js and Python. Over the past 2 years, my enthusiasm for coding and problem-solving has grown exponentially. I'm currently seeking full-stack web development opportunities, particularly roles focusing on React, TypeScript, and Next.js or integrating GenAI to drive innovation. I'm most excited about startup environments, where I can work closely with a dynamic team to make a meaningful impact!
-</div>
 
 <br>
 <br>
