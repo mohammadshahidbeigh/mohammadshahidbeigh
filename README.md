@@ -18,44 +18,6 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-### Socials
-
-<div id="badges">
-  <a href="https://www.linkedin.com/in/mohammad-shahid-beigh/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://x.com/m0hammad_shahid?t=yHwKObUdCDXJX2NYeSJ4eA&s=08">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="https://www.instagram.com/m0hammadshahid_?igsh=dzVjMWozN3VheGQ2">
-    <img src="https://img.shields.io/badge/Instagram-darkred?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href="mailto:mohammadshahidbeigh@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-  <a href="https://stackoverflow.com/users/21755863/mohammad-shahid-beigh?tab=profile">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow Badge"/>
-  </a>
-  <a href="https://www.upwork.com/freelancers/~01667608f00cd4224b?mp_source=share">
-    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork Badge"/>
-  </a>
-</div>
-
-### My Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-<!-- HASHNODE_BLOG:START -->
-<p align="left">
-<a href="https://mohammadshahidbeigh.hashnode.dev/mastering-fine-tuning-a-journey-through-model-optimization" title="Mastering Fine-Tuning: A Journey Through Model Optimization"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1725476315531/b409b64b-ecf5-40cd-84ff-96b5156bf57b.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Mastering Fine-Tuning: A Journey Through Model Optimization" width="250px" align="left" /></a>
-<a href="https://mohammadshahidbeigh.hashnode.dev/mastering-fine-tuning-a-journey-through-model-optimization" title="Why RAG Outshines Fine-Tuning in LLM Optimization"><strong>Mastering Fine-Tuning: A Journey Through Model Optimization</strong></a>
-<div><strong> May 5, 2024</strong> | <strong>Updated: July 19, 2024</strong></div>
-<br/>Understanding how Fine-tuning is key for optimizing small LLMs, and why mastering prompt engineering is equally vital for driving AI model behavior.</p> <br/> <br/>
-
-<a href="https://mohammadshahidbeigh.hashnode.dev/why-rag-outshines-fine-tuning-in-llm-optimization" title="Why RAG Outshines Fine-Tuning in LLM Optimization"><img src="https://framerusercontent.com/images/Vk7p8LACFAKiG7QLnlwAwks6uU0.png" alt="Why RAG Outshines Fine-Tuning in LLM Optimization" width="250px" align="left" /></a>
-<a href="https://mohammadshahidbeigh.hashnode.dev/why-rag-outshines-fine-tuning-in-llm-optimization" title="Mastering Fine-Tuning: A Journey Through Model Optimization"><strong>Why RAG Outshines Fine-Tuning in LLM Optimization</strong></a>
-<div><strong> Sep 17, 2024</strong> | <strong>Updated: Sep 18, 2024</strong></div>
-<br/>Understanding Why RAG Outshines Fine-Tuning in LLM Optimization.</p> <br/> <br/>
-
 <a href="https://mohammadshahidbeigh.hashnode.dev/generative-ai-and-agentic-ai-for-software-development" title="Generative AI and Agentic AI for Software Development"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1736086288820/e42142eb-e1a2-4ed9-aede-940b6bdc4ead.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Generative AI and Agentic AI for Software Development" width="250px" align="left" /></a>
 <a href="https://mohammadshahidbeigh.hashnode.dev/generative-ai-and-agentic-ai-for-software-development" title="Generative AI and Agentic AI for Software Development"><strong>Generative AI and Agentic AI for Software Development</strong></a>
 <div><strong> Jan 5, 2025</strong> | <strong>Updated: Jan 8, 2025</strong></div>
