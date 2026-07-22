@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mohammadshahidbeigh/mohammadshahidbeigh/refs/heads/main/shahid_profile_card.svg" alt="Mohammad Shahid Beigh" />
+  <img src="https://raw.githubusercontent.com/mohammadshahidbeigh/mohammadshahidbeigh/refs/heads/main/profile_card_pixel_perfect.svg" alt="Mohammad Shahid Beigh" />
 </p>
 
 <br>
