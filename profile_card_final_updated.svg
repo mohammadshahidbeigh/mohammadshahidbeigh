@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg viewBox="0 0 760 503" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="760px" height="503px" font-size="10px" font-family="'ConsolasFallback', Consolas, 'Courier New', monospace">
+<style>
+@font-face {
+  src: local('Consolas'), local('Consolas Bold');
+  font-family: 'ConsolasFallback';
+  font-display: swap;
+  size-adjust: 109%;
+}
+text { fill: #c9d1d9; }
+.key { fill: #ffa657; }
+.value { fill: #a5d6ff; }
+.cc { fill: #6e7681; }
+.stat { fill: #3fb950; font-weight: bold; }
+.stat-red { fill: #f85149; font-weight: bold; }
+.stat-black { fill: #e6edf3; font-weight: bold; }
+.user { fill: #e6edf3; font-weight: bold; }
+.section { fill: #8b949e; font-weight: bold; }
+.ascii { fill: #c9d1d9; }
+.link { text-decoration: underline; }
+a { cursor: pointer; }
+text, tspan { white-space: pre; }
+</style>
+<rect width="760px" height="503px" fill="#161b22" rx="15"/>
+<text x="15" y="20" class="ascii" xml:space="preserve"><tspan x="15" y="20">........    :##%#%@%%%@%%%%%%#+:.</tspan>
+<tspan x="15" y="33">.....     ::*@@%%%%%@%%%%%%%%%%+.</tspan>
+<tspan x="15" y="46">..        --#%%%%%%@@@%%%%%%%%%#-</tspan>
+<tspan x="15" y="59">          :*%%%%%#*++**#%%#%%%%%#</tspan>
+<tspan x="15" y="72">          :%%%%%#+-::.:-=##%%%%%#</tspan>
+<tspan x="15" y="85">          .+%%%#+-:.. ...-#%%%%%*</tspan>
+<tspan x="15" y="98">           -%%%+=-:......:=*%%%%#</tspan>
+<tspan x="15" y="111">           :#@#++=-:...:--==#%%%+</tspan>
+<tspan x="15" y="124">            -%#*###*-.:+#**##%%+:</tspan>
+<tspan x="15" y="137">             *#=+*+=+:-++*++#%=  </tspan>
+<tspan x="15" y="150">            .=*==--=+--=-=+=*#-  </tspan>
+<tspan x="15" y="163">            .:=-:::==.:-:.:-=--  </tspan>
+<tspan x="15" y="176">             :=-:::-=:--.::-=-:  </tspan>
+<tspan x="15" y="189">             -=--:-=+-=+-:--+=.  </tspan>
+<tspan x="15" y="202">             :-=-=*+===+*+-=+=.  </tspan>
+<tspan x="15" y="215">               --=+=====+=-=-.   </tspan>
+<tspan x="15" y="228">               :===--=-:-===.    </tspan>
+<tspan x="15" y="241">               .+++=----+++-     </tspan>
+<tspan x="15" y="254">               .=*##**###*+-     </tspan>
+<tspan x="15" y="267">               :=+++++++++==     </tspan>
+<tspan x="15" y="280">               :==+=:::-====     </tspan>
+<tspan x="15" y="293">            .:=+=-==-.-==-=+-.   </tspan>
+<tspan x="15" y="306">          ..-+++=-===--=--=+*-:. </tspan>
+<tspan x="15" y="319">       .:--:.-=+---=---=--=+=.:-:</tspan>
+<tspan x="15" y="332">    .:---::. :==---=====--==...::</tspan>
+<tspan x="15" y="345">  :-:::.....  -=-:--==----:. .:::</tspan>
+<tspan x="15" y="358">.:::..         --:-::::::.  .....</tspan>
+<tspan x="15" y="371">::...           ..:::.:.    .....</tspan>
+<tspan x="15" y="384">:..                            ..</tspan>
+<tspan x="15" y="397">..        .                   ...</tspan>
+<tspan x="15" y="410">...                           ...</tspan>
+<tspan x="15" y="423">...     .                      ..</tspan>
+<tspan x="15" y="436">....    .                       .</tspan>
+<tspan x="15" y="449">....                            .</tspan>
+<tspan x="15" y="462">....   ..                       .</tspan>
+<tspan x="15" y="475">:...   ....                     .</tspan>
+<tspan x="15" y="488">....   ....                      </tspan></text>
+<text x="245" y="20" xml:space="preserve"><tspan x="245" y="20" class="user">Mohammad Shahid Beigh</tspan><tspan class="cc"> ------------------</tspan>
+<tspan x="245" y="33" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">2+ Year(s), Software Engineering</tspan>
+<tspan x="245" y="46" class="cc">. </tspan><tspan class="key">Focus</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">Forward Deployed Engineer</tspan>
+<tspan x="245" y="72" class="section">- Experience</tspan><tspan class="cc"> ----------------</tspan>
+<tspan x="245" y="85" class="cc">. </tspan><a xlink:href="https://weya.ai" href="https://weya.ai"><tspan class="key link">Weya.ai</tspan></a>:<tspan class="cc"> .................. </tspan><tspan class="value">Full Stack Engineer</tspan>
+<tspan x="245" y="98" class="cc">. </tspan><a xlink:href="https://heymilo.ai" href="https://heymilo.ai"><tspan class="key link">HeyMilo.ai</tspan></a>:<tspan class="cc"> ............... </tspan><tspan class="value">Frontend Engineer, Contract</tspan>
+<tspan x="245" y="124" class="cc">. </tspan><tspan class="key">Languages</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">TypeScript, JavaScript, Python, Go</tspan>
+<tspan x="245" y="137" class="cc">. </tspan><tspan class="key">Frontend</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">TypeScript, React, Next.js, React Native</tspan>
+<tspan x="245" y="150" class="cc">. </tspan><tspan class="key">UI</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">Tailwind CSS, shadcn/ui, Radix UI, Stitches</tspan>
+<tspan x="245" y="163" class="cc">. </tspan><tspan class="key">Backend</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">Python, FastAPI, Node.js, NestJS, Go</tspan>
+<tspan x="245" y="176" class="cc">. </tspan><tspan class="key">Systems</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">REST, gRPC, Microservices, Dist. Sys.</tspan>
+<tspan x="245" y="189" class="cc">. </tspan><tspan class="key">Security</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">OAuth 2.0, JWT, SSO, RBAC</tspan>
+<tspan x="245" y="202" class="cc">. </tspan><tspan class="key">Data</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">MongoDB, PostgreSQL, Redis</tspan>
+<tspan x="245" y="215" class="cc">. </tspan><tspan class="key">Infra</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">Docker, Kubernetes, AWS, Linux, CI/CD</tspan>
+<tspan x="245" y="228" class="cc">. </tspan><tspan class="key">AI</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">LLMs, RAG (Advanced), Agentic Workflows</tspan>
+<tspan x="245" y="241" class="cc">. </tspan><tspan class="key">AI Frameworks</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">LangChain, LlamaIndex, MCP, LLM Evals</tspan>
+<tspan x="245" y="267" class="section">- Contact</tspan><tspan class="cc"> ----------------</tspan>
+<tspan x="245" y="280" class="cc">. </tspan><a xlink:href="mailto:mohammadshahidbeigh@gmail.com" href="mailto:mohammadshahidbeigh@gmail.com"><tspan class="key link">Email</tspan></a>:<tspan class="cc"> .................... </tspan><tspan class="value">mohammadshahidbeigh@gmail.com</tspan>
+<tspan x="245" y="293" class="cc">. </tspan><a xlink:href="https://www.linkedin.com/in/mohammad-shahid-beigh/" href="https://www.linkedin.com/in/mohammad-shahid-beigh/"><tspan class="key link">LinkedIn</tspan></a>:<tspan class="cc"> ................. </tspan><tspan class="value">mohammad-shahid-beigh</tspan>
+<tspan x="245" y="306" class="cc">. </tspan><a xlink:href="https://github.com/mohammadshahidbeigh" href="https://github.com/mohammadshahidbeigh"><tspan class="key link">GitHub</tspan></a>:<tspan class="cc"> ................... </tspan><tspan class="value">mohammadshahidbeigh</tspan>
+<tspan x="245" y="319" class="cc">. </tspan><a xlink:href="https://x.com/m0hammad_shahid" href="https://x.com/m0hammad_shahid"><tspan class="key link">X</tspan></a>:<tspan class="cc"> ........................ </tspan><tspan class="value">m0hammad_shahid</tspan>
+<tspan x="245" y="345" class="section">- Blog</tspan><tspan class="cc"> ----------------</tspan>
+<tspan x="245" y="358" class="cc">. </tspan><a xlink:href="https://mohammadshahidbeigh.hashnode.dev/mastering-fine-tuning-a-journey-through-model-optimization" href="https://mohammadshahidbeigh.hashnode.dev/mastering-fine-tuning-a-journey-through-model-optimization"><tspan class="key link">Fine-Tuning</tspan></a>:<tspan class="cc"> .............. </tspan><tspan class="value">A Journey Through Model Optimization</tspan>
+<tspan x="245" y="371" class="cc">. </tspan><a xlink:href="https://mohammadshahidbeigh.hashnode.dev/why-rag-outshines-fine-tuning-in-llm-optimization" href="https://mohammadshahidbeigh.hashnode.dev/why-rag-outshines-fine-tuning-in-llm-optimization"><tspan class="key link">RAG vs FT</tspan></a>:<tspan class="cc"> ................ </tspan><tspan class="value">Why RAG Outshines Fine-Tuning</tspan>
+<tspan x="245" y="384" class="cc">. </tspan><a xlink:href="https://mohammadshahidbeigh.hashnode.dev/generative-ai-and-agentic-ai-for-software-development" href="https://mohammadshahidbeigh.hashnode.dev/generative-ai-and-agentic-ai-for-software-development"><tspan class="key link">Agentic AI</tspan></a>:<tspan class="cc"> ............... </tspan><tspan class="value">Agentic AI for Software Development</tspan>
+<tspan x="245" y="410" class="cc">. </tspan><tspan class="key">Research</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">AI Chatbot for Education, 2,000+ reads</tspan>
+<tspan x="245" y="436" class="section">- GitHub Stats</tspan><tspan class="cc"> ----------------</tspan>
+<tspan x="245" y="449" class="cc">. </tspan><tspan class="key">Repos</tspan>: <tspan class="stat">60+</tspan><tspan class="cc"> {Public}</tspan><tspan class="cc">   |   </tspan><tspan class="key">Stars</tspan>: <tspan class="stat">104</tspan>
+<tspan x="245" y="462" class="cc">. </tspan><tspan class="key">Followers</tspan>: <tspan class="stat">38</tspan><tspan class="cc">   |   </tspan><tspan class="key">Following</tspan>: <tspan class="stat">57</tspan>
+<tspan x="245" y="475" class="cc">. </tspan><tspan class="key">Contributions</tspan>: <tspan class="stat-red">3,000+</tspan><tspan class="cc">   |   </tspan><tspan class="key">Longest Streak</tspan>: <tspan class="stat-black">46 days</tspan>
+<tspan x="245" y="488" class="cc">. </tspan><tspan class="key">Top Language</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">TypeScript</tspan></text>
+</svg>
